@@ -1,0 +1,13 @@
+XTF FtnInfo
+FileCookieID: 11
+FileName: 安全监控平台高危安全预警20190506当代云测试.xls
+FileSize: 35328
+FtnUrl: /ftn_handler/528e2d5445fef8267deb032260db78b85557845b5fecb76a731eb3504b3ac85fe91bc7703dab6899a31ef7832ab6a83ab6c76401b51af2db46dfc228a09f4357
+FtnCookie:FTN5K=fbdaad74
+FtnIP: 101.89.28.67
+FtnPort:80
+
+Port:80
+
+80
+
